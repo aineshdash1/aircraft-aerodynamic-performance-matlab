@@ -417,7 +417,7 @@ Possible extensions to the project include:
 
 ## Author
 
-**Ainesh**
+**Ainesh Dash**
 B.Tech Aerospace Engineering
 Indian Institute of Technology Madras
 
