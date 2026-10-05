@@ -337,36 +337,6 @@ Using $C_{L,max}=1.5$:
 | 1000 kg | ≈ 25.67 m/s |
 | 1200 kg | ≈ 28.15 m/s |
 
-> **Note:** The numerical values above are based on the equations and parameters used in the MATLAB model. The project is intended as a simplified aerodynamic analysis rather than a complete aircraft performance prediction.
-
----
-
-## Assumptions
-
-The model uses several simplifying assumptions:
-
-* Standard sea-level air density is assumed to be constant.
-
-* The aircraft is modeled using a fixed wing reference area.
-
-* The aircraft is assumed to be in steady, level flight for the performance analysis.
-
-* The drag polar is represented by the simplified parabolic relation:
-
-  \(C_D=C_{D0}+kC_L^2\)
-
-* Compressibility effects are neglected.
-
-* Reynolds-number effects are neglected.
-
-* Ground effect is neglected.
-
-* Propulsion and engine performance are not modeled.
-
-* Aircraft configuration changes are not considered.
-
-* The aerodynamic coefficients are based on simplified representative values rather than experimental aircraft data.
-
 ---
 
 ## Project Structure
@@ -395,23 +365,6 @@ aircraft-aerodynamic-performance-matlab/
 * **MATLAB**
 * MATLAB plotting and numerical computation functions
 * Basic aircraft aerodynamic equations
-
----
-
-## Future Improvements
-
-Possible extensions to the project include:
-
-* Modeling parasite and induced drag separately.
-* Adding thrust and power required calculations.
-* Determining minimum and maximum level-flight speeds.
-* Adding rate-of-climb analysis.
-* Investigating the effect of altitude on aircraft performance.
-* Including atmospheric density variation with altitude.
-* Comparing different aircraft configurations.
-* Adding a graphical user interface (GUI).
-* Extending the model to include Mach number and compressibility effects.
-* Comparing the analytical model with published aircraft performance data.
 
 ---
 
