@@ -127,11 +127,9 @@ The corresponding maximum lift-to-drag ratio is:
 
 ### Maximum Lift-to-Drag Ratio
 
-$$
-\left(\frac{L}{D}\right)_{\max}
-=
-\frac{1}{2\sqrt{C_{D0}k}}
-$$
+The maximum lift-to-drag ratio is given by:
+
+**(L/D)max = 1 / (2√(CD0 × k))**
 
 ---
 
