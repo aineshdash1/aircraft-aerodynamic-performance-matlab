@@ -126,7 +126,7 @@ $$
 The corresponding maximum lift-to-drag ratio is:
 
 $$
-\left(\frac{L}{D}\right)_{max}
+\left(\frac{L}{D}\right)_{\max}
 =
 \frac{1}{2\sqrt{C_{D0}k}}
 $$
