@@ -125,6 +125,8 @@ $$
 
 The corresponding maximum lift-to-drag ratio is:
 
+### Maximum Lift-to-Drag Ratio
+
 $$
 \left(\frac{L}{D}\right)_{\max}
 =
